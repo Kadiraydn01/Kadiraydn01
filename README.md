@@ -5,9 +5,13 @@
 
 Here are some ideas to get you started:
 
+
+-->
 - 🔭 I’m currently working on e-commerce website
 - 🌱 I’m currently learning Next.js 
 - 🤔 I’m looking for help with Node.js backend
--->
+
+
+  
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Kadiraydn01&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Kadiraydn01&show_icons=true&theme=radical)
